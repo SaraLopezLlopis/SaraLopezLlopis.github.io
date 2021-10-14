@@ -1,3 +1,5 @@
-
-h1 {color: lightpink;}
 body{color: white; background-color: lightpurple;}
+h1 {color: lightpink;}
+#grande .interior em {
+  color: red; 
+  background-color: blue;}
